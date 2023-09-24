@@ -1,0 +1,15 @@
+C:\Users\Гульназ\Desktop\C#Practics\ExerciseThree\obj\Debug\net6.0\ExerciseThree.csproj.AssemblyReference.cache
+C:\Users\Гульназ\Desktop\C#Practics\ExerciseThree\obj\Debug\net6.0\ExerciseThree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Гульназ\Desktop\C#Practics\ExerciseThree\obj\Debug\net6.0\ExerciseThree.AssemblyInfoInputs.cache
+C:\Users\Гульназ\Desktop\C#Practics\ExerciseThree\obj\Debug\net6.0\ExerciseThree.AssemblyInfo.cs
+C:\Users\Гульназ\Desktop\C#Practics\ExerciseThree\obj\Debug\net6.0\ExerciseThree.csproj.CoreCompileInputs.cache
+C:\Users\Гульназ\Desktop\C#Practics\ExerciseThree\bin\Debug\net6.0\ExerciseThree.exe
+C:\Users\Гульназ\Desktop\C#Practics\ExerciseThree\bin\Debug\net6.0\ExerciseThree.deps.json
+C:\Users\Гульназ\Desktop\C#Practics\ExerciseThree\bin\Debug\net6.0\ExerciseThree.runtimeconfig.json
+C:\Users\Гульназ\Desktop\C#Practics\ExerciseThree\bin\Debug\net6.0\ExerciseThree.dll
+C:\Users\Гульназ\Desktop\C#Practics\ExerciseThree\bin\Debug\net6.0\ExerciseThree.pdb
+C:\Users\Гульназ\Desktop\C#Practics\ExerciseThree\obj\Debug\net6.0\ExerciseThree.dll
+C:\Users\Гульназ\Desktop\C#Practics\ExerciseThree\obj\Debug\net6.0\refint\ExerciseThree.dll
+C:\Users\Гульназ\Desktop\C#Practics\ExerciseThree\obj\Debug\net6.0\ExerciseThree.pdb
+C:\Users\Гульназ\Desktop\C#Practics\ExerciseThree\obj\Debug\net6.0\ExerciseThree.genruntimeconfig.cache
+C:\Users\Гульназ\Desktop\C#Practics\ExerciseThree\obj\Debug\net6.0\ref\ExerciseThree.dll
