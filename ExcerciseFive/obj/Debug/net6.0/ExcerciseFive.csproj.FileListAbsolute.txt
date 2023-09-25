@@ -1,0 +1,15 @@
+C:\Users\Гульназ\Desktop\C#Practics\ExcerciseFive\bin\Debug\net6.0\ExcerciseFive.exe
+C:\Users\Гульназ\Desktop\C#Practics\ExcerciseFive\bin\Debug\net6.0\ExcerciseFive.deps.json
+C:\Users\Гульназ\Desktop\C#Practics\ExcerciseFive\bin\Debug\net6.0\ExcerciseFive.runtimeconfig.json
+C:\Users\Гульназ\Desktop\C#Practics\ExcerciseFive\bin\Debug\net6.0\ExcerciseFive.dll
+C:\Users\Гульназ\Desktop\C#Practics\ExcerciseFive\bin\Debug\net6.0\ExcerciseFive.pdb
+C:\Users\Гульназ\Desktop\C#Practics\ExcerciseFive\obj\Debug\net6.0\ExcerciseFive.csproj.AssemblyReference.cache
+C:\Users\Гульназ\Desktop\C#Practics\ExcerciseFive\obj\Debug\net6.0\ExcerciseFive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Гульназ\Desktop\C#Practics\ExcerciseFive\obj\Debug\net6.0\ExcerciseFive.AssemblyInfoInputs.cache
+C:\Users\Гульназ\Desktop\C#Practics\ExcerciseFive\obj\Debug\net6.0\ExcerciseFive.AssemblyInfo.cs
+C:\Users\Гульназ\Desktop\C#Practics\ExcerciseFive\obj\Debug\net6.0\ExcerciseFive.csproj.CoreCompileInputs.cache
+C:\Users\Гульназ\Desktop\C#Practics\ExcerciseFive\obj\Debug\net6.0\ExcerciseFive.dll
+C:\Users\Гульназ\Desktop\C#Practics\ExcerciseFive\obj\Debug\net6.0\refint\ExcerciseFive.dll
+C:\Users\Гульназ\Desktop\C#Practics\ExcerciseFive\obj\Debug\net6.0\ExcerciseFive.pdb
+C:\Users\Гульназ\Desktop\C#Practics\ExcerciseFive\obj\Debug\net6.0\ExcerciseFive.genruntimeconfig.cache
+C:\Users\Гульназ\Desktop\C#Practics\ExcerciseFive\obj\Debug\net6.0\ref\ExcerciseFive.dll
