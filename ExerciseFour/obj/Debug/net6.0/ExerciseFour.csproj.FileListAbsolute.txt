@@ -1,0 +1,15 @@
+C:\Users\Гульназ\Desktop\C#Practics\ExerciseFour\bin\Debug\net6.0\ExerciseFour.exe
+C:\Users\Гульназ\Desktop\C#Practics\ExerciseFour\bin\Debug\net6.0\ExerciseFour.deps.json
+C:\Users\Гульназ\Desktop\C#Practics\ExerciseFour\bin\Debug\net6.0\ExerciseFour.runtimeconfig.json
+C:\Users\Гульназ\Desktop\C#Practics\ExerciseFour\bin\Debug\net6.0\ExerciseFour.dll
+C:\Users\Гульназ\Desktop\C#Practics\ExerciseFour\bin\Debug\net6.0\ExerciseFour.pdb
+C:\Users\Гульназ\Desktop\C#Practics\ExerciseFour\obj\Debug\net6.0\ExerciseFour.csproj.AssemblyReference.cache
+C:\Users\Гульназ\Desktop\C#Practics\ExerciseFour\obj\Debug\net6.0\ExerciseFour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Гульназ\Desktop\C#Practics\ExerciseFour\obj\Debug\net6.0\ExerciseFour.AssemblyInfoInputs.cache
+C:\Users\Гульназ\Desktop\C#Practics\ExerciseFour\obj\Debug\net6.0\ExerciseFour.AssemblyInfo.cs
+C:\Users\Гульназ\Desktop\C#Practics\ExerciseFour\obj\Debug\net6.0\ExerciseFour.csproj.CoreCompileInputs.cache
+C:\Users\Гульназ\Desktop\C#Practics\ExerciseFour\obj\Debug\net6.0\ExerciseFour.dll
+C:\Users\Гульназ\Desktop\C#Practics\ExerciseFour\obj\Debug\net6.0\refint\ExerciseFour.dll
+C:\Users\Гульназ\Desktop\C#Practics\ExerciseFour\obj\Debug\net6.0\ExerciseFour.pdb
+C:\Users\Гульназ\Desktop\C#Practics\ExerciseFour\obj\Debug\net6.0\ExerciseFour.genruntimeconfig.cache
+C:\Users\Гульназ\Desktop\C#Practics\ExerciseFour\obj\Debug\net6.0\ref\ExerciseFour.dll
