@@ -1,0 +1,15 @@
+C:\Users\Гульназ\Desktop\C#Practics\Excercise13\bin\Debug\net6.0\Excercise13.exe
+C:\Users\Гульназ\Desktop\C#Practics\Excercise13\bin\Debug\net6.0\Excercise13.deps.json
+C:\Users\Гульназ\Desktop\C#Practics\Excercise13\bin\Debug\net6.0\Excercise13.runtimeconfig.json
+C:\Users\Гульназ\Desktop\C#Practics\Excercise13\bin\Debug\net6.0\Excercise13.dll
+C:\Users\Гульназ\Desktop\C#Practics\Excercise13\bin\Debug\net6.0\Excercise13.pdb
+C:\Users\Гульназ\Desktop\C#Practics\Excercise13\obj\Debug\net6.0\Excercise13.csproj.AssemblyReference.cache
+C:\Users\Гульназ\Desktop\C#Practics\Excercise13\obj\Debug\net6.0\Excercise13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Гульназ\Desktop\C#Practics\Excercise13\obj\Debug\net6.0\Excercise13.AssemblyInfoInputs.cache
+C:\Users\Гульназ\Desktop\C#Practics\Excercise13\obj\Debug\net6.0\Excercise13.AssemblyInfo.cs
+C:\Users\Гульназ\Desktop\C#Practics\Excercise13\obj\Debug\net6.0\Excercise13.csproj.CoreCompileInputs.cache
+C:\Users\Гульназ\Desktop\C#Practics\Excercise13\obj\Debug\net6.0\Excercise13.dll
+C:\Users\Гульназ\Desktop\C#Practics\Excercise13\obj\Debug\net6.0\refint\Excercise13.dll
+C:\Users\Гульназ\Desktop\C#Practics\Excercise13\obj\Debug\net6.0\Excercise13.pdb
+C:\Users\Гульназ\Desktop\C#Practics\Excercise13\obj\Debug\net6.0\Excercise13.genruntimeconfig.cache
+C:\Users\Гульназ\Desktop\C#Practics\Excercise13\obj\Debug\net6.0\ref\Excercise13.dll
