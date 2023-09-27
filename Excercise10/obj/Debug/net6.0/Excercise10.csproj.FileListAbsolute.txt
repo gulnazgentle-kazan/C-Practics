@@ -1,0 +1,15 @@
+C:\Users\Гульназ\Desktop\C#Practics\Excercise10\obj\Debug\net6.0\Excercise10.csproj.AssemblyReference.cache
+C:\Users\Гульназ\Desktop\C#Practics\Excercise10\obj\Debug\net6.0\Excercise10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Гульназ\Desktop\C#Practics\Excercise10\obj\Debug\net6.0\Excercise10.AssemblyInfoInputs.cache
+C:\Users\Гульназ\Desktop\C#Practics\Excercise10\obj\Debug\net6.0\Excercise10.AssemblyInfo.cs
+C:\Users\Гульназ\Desktop\C#Practics\Excercise10\obj\Debug\net6.0\Excercise10.csproj.CoreCompileInputs.cache
+C:\Users\Гульназ\Desktop\C#Practics\Excercise10\bin\Debug\net6.0\Excercise10.exe
+C:\Users\Гульназ\Desktop\C#Practics\Excercise10\bin\Debug\net6.0\Excercise10.deps.json
+C:\Users\Гульназ\Desktop\C#Practics\Excercise10\bin\Debug\net6.0\Excercise10.runtimeconfig.json
+C:\Users\Гульназ\Desktop\C#Practics\Excercise10\bin\Debug\net6.0\Excercise10.dll
+C:\Users\Гульназ\Desktop\C#Practics\Excercise10\bin\Debug\net6.0\Excercise10.pdb
+C:\Users\Гульназ\Desktop\C#Practics\Excercise10\obj\Debug\net6.0\Excercise10.dll
+C:\Users\Гульназ\Desktop\C#Practics\Excercise10\obj\Debug\net6.0\refint\Excercise10.dll
+C:\Users\Гульназ\Desktop\C#Practics\Excercise10\obj\Debug\net6.0\Excercise10.pdb
+C:\Users\Гульназ\Desktop\C#Practics\Excercise10\obj\Debug\net6.0\Excercise10.genruntimeconfig.cache
+C:\Users\Гульназ\Desktop\C#Practics\Excercise10\obj\Debug\net6.0\ref\Excercise10.dll
