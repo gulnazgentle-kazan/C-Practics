@@ -1,0 +1,15 @@
+C:\Users\Гульназ\Desktop\C#Practics\Excercise11\obj\Debug\net6.0\Excercise11.csproj.AssemblyReference.cache
+C:\Users\Гульназ\Desktop\C#Practics\Excercise11\obj\Debug\net6.0\Excercise11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Гульназ\Desktop\C#Practics\Excercise11\obj\Debug\net6.0\Excercise11.AssemblyInfoInputs.cache
+C:\Users\Гульназ\Desktop\C#Practics\Excercise11\obj\Debug\net6.0\Excercise11.AssemblyInfo.cs
+C:\Users\Гульназ\Desktop\C#Practics\Excercise11\obj\Debug\net6.0\Excercise11.csproj.CoreCompileInputs.cache
+C:\Users\Гульназ\Desktop\C#Practics\Excercise11\bin\Debug\net6.0\Excercise11.exe
+C:\Users\Гульназ\Desktop\C#Practics\Excercise11\bin\Debug\net6.0\Excercise11.deps.json
+C:\Users\Гульназ\Desktop\C#Practics\Excercise11\bin\Debug\net6.0\Excercise11.runtimeconfig.json
+C:\Users\Гульназ\Desktop\C#Practics\Excercise11\bin\Debug\net6.0\Excercise11.dll
+C:\Users\Гульназ\Desktop\C#Practics\Excercise11\bin\Debug\net6.0\Excercise11.pdb
+C:\Users\Гульназ\Desktop\C#Practics\Excercise11\obj\Debug\net6.0\Excercise11.dll
+C:\Users\Гульназ\Desktop\C#Practics\Excercise11\obj\Debug\net6.0\refint\Excercise11.dll
+C:\Users\Гульназ\Desktop\C#Practics\Excercise11\obj\Debug\net6.0\Excercise11.pdb
+C:\Users\Гульназ\Desktop\C#Practics\Excercise11\obj\Debug\net6.0\Excercise11.genruntimeconfig.cache
+C:\Users\Гульназ\Desktop\C#Practics\Excercise11\obj\Debug\net6.0\ref\Excercise11.dll
