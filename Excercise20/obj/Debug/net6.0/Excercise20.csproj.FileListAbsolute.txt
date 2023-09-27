@@ -1,0 +1,15 @@
+C:\Users\Гульназ\Desktop\C#Practics\Excercise20\obj\Debug\net6.0\Excercise20.csproj.AssemblyReference.cache
+C:\Users\Гульназ\Desktop\C#Practics\Excercise20\obj\Debug\net6.0\Excercise20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Гульназ\Desktop\C#Practics\Excercise20\obj\Debug\net6.0\Excercise20.AssemblyInfoInputs.cache
+C:\Users\Гульназ\Desktop\C#Practics\Excercise20\obj\Debug\net6.0\Excercise20.AssemblyInfo.cs
+C:\Users\Гульназ\Desktop\C#Practics\Excercise20\obj\Debug\net6.0\Excercise20.csproj.CoreCompileInputs.cache
+C:\Users\Гульназ\Desktop\C#Practics\Excercise20\bin\Debug\net6.0\Excercise20.exe
+C:\Users\Гульназ\Desktop\C#Practics\Excercise20\bin\Debug\net6.0\Excercise20.deps.json
+C:\Users\Гульназ\Desktop\C#Practics\Excercise20\bin\Debug\net6.0\Excercise20.runtimeconfig.json
+C:\Users\Гульназ\Desktop\C#Practics\Excercise20\bin\Debug\net6.0\Excercise20.dll
+C:\Users\Гульназ\Desktop\C#Practics\Excercise20\bin\Debug\net6.0\Excercise20.pdb
+C:\Users\Гульназ\Desktop\C#Practics\Excercise20\obj\Debug\net6.0\Excercise20.dll
+C:\Users\Гульназ\Desktop\C#Practics\Excercise20\obj\Debug\net6.0\refint\Excercise20.dll
+C:\Users\Гульназ\Desktop\C#Practics\Excercise20\obj\Debug\net6.0\Excercise20.pdb
+C:\Users\Гульназ\Desktop\C#Practics\Excercise20\obj\Debug\net6.0\Excercise20.genruntimeconfig.cache
+C:\Users\Гульназ\Desktop\C#Practics\Excercise20\obj\Debug\net6.0\ref\Excercise20.dll
