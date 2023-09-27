@@ -1,0 +1,15 @@
+C:\Users\Гульназ\Desktop\C#Practics\Excercise21\obj\Debug\net6.0\Excercise21.csproj.AssemblyReference.cache
+C:\Users\Гульназ\Desktop\C#Practics\Excercise21\obj\Debug\net6.0\Excercise21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Гульназ\Desktop\C#Practics\Excercise21\obj\Debug\net6.0\Excercise21.AssemblyInfoInputs.cache
+C:\Users\Гульназ\Desktop\C#Practics\Excercise21\obj\Debug\net6.0\Excercise21.AssemblyInfo.cs
+C:\Users\Гульназ\Desktop\C#Practics\Excercise21\obj\Debug\net6.0\Excercise21.csproj.CoreCompileInputs.cache
+C:\Users\Гульназ\Desktop\C#Practics\Excercise21\bin\Debug\net6.0\Excercise21.exe
+C:\Users\Гульназ\Desktop\C#Practics\Excercise21\bin\Debug\net6.0\Excercise21.deps.json
+C:\Users\Гульназ\Desktop\C#Practics\Excercise21\bin\Debug\net6.0\Excercise21.runtimeconfig.json
+C:\Users\Гульназ\Desktop\C#Practics\Excercise21\bin\Debug\net6.0\Excercise21.dll
+C:\Users\Гульназ\Desktop\C#Practics\Excercise21\bin\Debug\net6.0\Excercise21.pdb
+C:\Users\Гульназ\Desktop\C#Practics\Excercise21\obj\Debug\net6.0\Excercise21.dll
+C:\Users\Гульназ\Desktop\C#Practics\Excercise21\obj\Debug\net6.0\refint\Excercise21.dll
+C:\Users\Гульназ\Desktop\C#Practics\Excercise21\obj\Debug\net6.0\Excercise21.pdb
+C:\Users\Гульназ\Desktop\C#Practics\Excercise21\obj\Debug\net6.0\Excercise21.genruntimeconfig.cache
+C:\Users\Гульназ\Desktop\C#Practics\Excercise21\obj\Debug\net6.0\ref\Excercise21.dll
